@@ -1,0 +1,36 @@
+_repo: Top_38338
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38338-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Albertazzi, Adolfo
+    alias: Albertazzi
+    birthdate: 1865
+    deathdate: 1924
+    gutenberg_agent_id: '39080'
+    url: http://www.gutenberg.org/2009/agents/39080
+    wikipedia: http://it.wikipedia.org/wiki/Adolfo_Albertazzi
+description: ''
+gutenberg_bookshelf: IT Racconti
+gutenberg_issued: '2011-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38338'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories, Italian'
+- !lcc 'PQ'
+tableOfContents: Il cane dello zio Prospero -- Le penne del pavone -- La fiumana --
+  A Sant'Elpidio -- L'ombrello -- Ci vuol pazienza! -- Francesco mio... -- Simpatia
+  -- Nella Romagna d'una volta -- Valentino e Lucilio -- La passione d'un gentiluomo
+  Veneziano -- Compassione e invidia -- Un martire della verità -- Il vitello -- Zvanòn
+  -- La casta Susanna -- Buona gente -- Il testamento -- Che cosa è il mondo? -- Nell'anno
+  XX della Re-So-Eu.
+title: Top
+url: http://www.gutenberg.org/ebooks/38338
